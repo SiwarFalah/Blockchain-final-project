@@ -1,0 +1,18 @@
+# dependencies
+/node_modules
+/dist
+/.parcel-cache
+
+.prettierrc
+
+package-lock.json
+node_modules
+.env
+coverage
+coverage.json
+typechain
+.next
+
+#Hardhat files
+cache
+artifacts
